@@ -96,7 +96,7 @@ Then open your browser and visit: [http://localhost:3000](http://localhost:3000)
 
 | Meal Search Page | Single Post Page |
 |------------------|------------------|
-| ![Meal Search](https://via.placeholder.com/300x200?text=Meal+Search) | ![Post Page](https://i.ibb.co/MD2Jcggf/posts.png) |
+| ![Meal Search](https://i.ibb.co/B242K6hG/mealdb.png) | ![Post Page](https://i.ibb.co/MD2Jcggf/posts.png) |
 
 ---
 
