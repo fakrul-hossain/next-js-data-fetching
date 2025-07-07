@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 export const getPosts = async () =>{
@@ -22,6 +23,11 @@ export default async function Posts () {
             <div className='bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow details-content:hover:shadow-lg' key={post.id}>
                 <h2 className='text-xl font-black mb-2'> {post.title}</h2>
                 <p className='text-gray-500 mb-4'>{post.body}</p>
+                <button className='bg-indigo-600 text-white px-4 py-2 rounded-2xl hover:bg-indigo-500 transition-colors'>
+                   <Link href={`/posts/${post.id}`}>
+                   Read More
+
+                        </Link>               </button>
             </div>
             )}
         </div>
