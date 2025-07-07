@@ -23,7 +23,7 @@ export default function MealSearchInput() {
         value={searchMeal}
         onChange={(e) => setSearchMeal(e.target.value)}
         placeholder="Search for a meal"
-        className="border p-2 rounded-md w-64 text-center"
+        className="border-2 p-2 border-purple-500 rounded-md w-64 text-center"
       />
     </div>
   );

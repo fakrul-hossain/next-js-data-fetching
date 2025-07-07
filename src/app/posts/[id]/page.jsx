@@ -1,5 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
+import { Button } from '@/components/ui/button';
+
 
 // Function to fetch a single post by ID
 export const getSinglePost = async (post_id) => {
@@ -23,6 +25,7 @@ export default async function SinglePost({ params }) {
           <Link href="/posts" className="text-blue-500 hover:underline">
             ← Back to Posts
           </Link>
+          
         </div>
       </div>
     </div>
