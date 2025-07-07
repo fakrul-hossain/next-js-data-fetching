@@ -56,7 +56,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nextjs-data-fetching-app.git
+git clone https://github.com/fakrul-hossain/next-js-data-fetching
 cd nextjs-data-fetching-app
 ```
 
@@ -96,7 +96,7 @@ Then open your browser and visit: [http://localhost:3000](http://localhost:3000)
 
 | Meal Search Page | Single Post Page |
 |------------------|------------------|
-| ![Meal Search](https://via.placeholder.com/300x200?text=Meal+Search) | ![Post Page](https://via.placeholder.com/300x200?text=Post+Page) |
+| ![Meal Search](https://via.placeholder.com/300x200?text=Meal+Search) | ![Post Page](https://i.ibb.co/MD2Jcggf/posts.png) |
 
 ---
 
